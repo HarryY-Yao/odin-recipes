@@ -1,0 +1,15 @@
+h1 {
+    color: cadetblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    color: cornflowerblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p, li {
+    background-color: cornsilk;
+    font-family: 'Times New Roman', Times, serif;
+}
