@@ -1,5 +1,4 @@
 h1 {
-    color: cadetblue;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
@@ -9,7 +8,20 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-p, li {
-    background-color: cornsilk;
-    font-family: 'Times New Roman', Times, serif;
+body {
+    background-color: rgb(232, 232, 232);
 }
+
+.card {
+    width: 400px;
+    background: white;
+    margin: auto;
+    padding: 8px;
+}
+
+.main-title {
+    background: rgb(186, 206, 242);
+    padding: 16px
+
+}
+
